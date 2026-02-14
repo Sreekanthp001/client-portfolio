@@ -19,4 +19,4 @@ const nextConfig = {
 };
 
 // Sentry ni temporarily disable chestunnam build success avvadaniki
-export default nextConfig;
+export default nextConfig; 
